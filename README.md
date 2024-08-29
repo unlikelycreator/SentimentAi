@@ -1,0 +1,2 @@
+# SentimentAi
+Basic sentiment ai
